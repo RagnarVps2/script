@@ -3,5 +3,5 @@ apt update
 apt upgrade -y
 apt install curl -y
 wget https://raw.githubusercontent.com/RagnarVps2/script/main/sshplus/$(uname -m)/sshplus
-chmod +x sshplus
+chmod +x sshplus1
 ./sshplus
